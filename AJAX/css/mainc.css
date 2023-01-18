@@ -1,0 +1,71 @@
+.alert-heading {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 328px;
+}
+
+.group1 {
+    padding: 10px;
+}
+
+.input-group-text {
+    width: 170px;
+}
+
+#btn1 {
+    margin: 0 auto;
+    width: 90%;
+}
+
+#e4 {
+    color: #0e0d0d4d;
+}
+
+#e1,
+#e2,
+#e3 {
+    width: 95%;
+    padding: 10px;
+    color: #23252666;
+}
+
+#datos {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#link {
+    padding: 10px;
+    font-size: 1.3em;
+    margin-left: 60px;
+}
+
+.name-1,
+.name-2,
+.name-3,
+.name-4,
+.name-5,
+.name-6,
+.name-7 {
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.row {
+    justify-content: space-around;
+}
+
+.col {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.badge {
+    margin-top: 10px;
+}
